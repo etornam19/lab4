@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+	
 <head>
   <meta charset="utf-8">
   <title>HTML Clean Up Lab</title>
@@ -7,7 +8,7 @@
 <body>
   <div id="page-wrapper">
     <header id="header">
-	 <img src="downloads/logo3.png" width = "100px" heights = "100px"</a>
+	 <img src="downloads/logo3.png" width= "100px" height= "100px" alt="acme logo large and in red"</a>
 	 <h1>My Demo Site</h1>
     </header>
     <nav id="main-nav">
@@ -41,7 +42,7 @@
           <li>List 4</li>        
         </ul>
         <div id="center">
-          <iframe width="400" height="300" src="https://www.youtube.com/embed/-jn9aaNn8_I?si=D1HhLAWQ5awY9BfU frameborder=" allowfullscreen></iframe>
+          <iframe width="300" height="300" src="https://www.youtube.com/embed/-jn9aaNn8_I?si=D1HhLAWQ5awY9BfU" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
       <aside id="side-content">
