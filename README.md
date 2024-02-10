@@ -23,7 +23,7 @@
     <main id="content-wrapper">
       <div id="main-content">
         <h2><b>This is our h2 Tag</b></h2>
-        <img class="imageR" src="C:/Users/eaade/Downloads/main.png" alt="Logo for Main Squeeze juice Company in black and white">
+        <img src="imageR" src="C:/Users/eaade/Downloads/main.png" alt="Logo for Main Squeeze juice Company in black and white">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
