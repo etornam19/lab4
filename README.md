@@ -8,7 +8,7 @@
 <body>
   <div id="page-wrapper">
     <header id="header">
-	 <img src="C:/Users/eaade/Downloads/logo3.png" width= "100px" height= "100px" alt="acme logo large and in red">
+	 <img src="images/media/logo3.png" alt="acme logo large and in red">
 	 <h1>My Demo Site</h1>
     </header>
     <nav id="main-nav">
@@ -23,7 +23,7 @@
     <main id="content-wrapper">
       <div id="main-content">
         <h2><b>This is our h2 Tag</b></h2>
-        <img src="C:/Users/eaade/Downloads/main.png" alt="Logo for Main Squeeze juice Company in black and white">
+        <img src="images/media/main.png" alt="Logo for Main Squeeze juice Company in black and white">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, perferendis, sed ab sequi molestias eum sint consectetur dicta praesentium ipsa repellat soluta placeat dolor! Accusantium impedit est explicabo harum aperiam!</p>
